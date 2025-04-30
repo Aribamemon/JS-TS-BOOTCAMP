@@ -1,4 +1,4 @@
-# Problem Solving Exercise 2
+# Problem Solving Exercise 3
 
 1)Count Letters in a Word
 
